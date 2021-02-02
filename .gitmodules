@@ -1,0 +1,3 @@
+[submodule "third-party/vaastav-fpl"]
+	path = third-party/vaastav-fpl
+	url = https://github.com/vaastav/Fantasy-Premier-League.git
